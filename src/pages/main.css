@@ -1,0 +1,164 @@
+.heroSection img {
+  width: 1440px;
+  height: 700px;
+  top: 77px;
+}
+.frame497 {
+  position: absolute;
+  width: fixed 630px;
+  height: Hug 306px;
+  top: 354px;
+  left: 80px;
+  padding-top: 24px;
+  padding-right: 40px;
+  padding-bottom: 32px;
+  padding-left: 20px;
+  gap: 20px;
+  background: linear-gradient(256.73deg, #1cbddd 27.86%, #4dca79 100%);
+  
+}
+.frame497 h1 {
+  color: rgb(255, 255, 255);
+  width: 556px;
+  height: 192px;
+  font-family: "Inter";
+  font-weight: 700;
+  size: 48px;
+  line-height: 48px;
+  letter-spacing: -2%;
+}
+.frame497 button {
+  display: flex;
+  background-color: #f28d35;
+  border: #f28d35;
+  color: #ffffff;
+  width: Hug 214px;
+  height: Hug 38px;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-right: 20px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  box-shadow: none;
+  gap: 8px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: -2%;
+  cursor: pointer;
+}
+.containerOne img {
+  display: flex;
+  width: 414px;
+  height: 414px;
+}
+.containerOne{
+      
+  display:flex;
+  align-items: center;  
+    
+    
+      
+  
+}
+.containerOne h3 {
+
+  position: abs;
+  color: #6b3cc9;
+  font-family: "Poppins"; 
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 0.4px;
+  text-align: left;
+}
+.containerOne p {
+  display: flex;
+}
+.containerOne button {
+  display: flex;
+  background-color: #f28d35;
+  border: #f28d35;
+  width: Hug 129px;
+  height: Hug 38px;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-right: 20px;
+  padding-bottom: 12px;
+  padding-left: 8px;
+  color: #ffffff;
+}
+.containerTwo img {
+  display: flex;
+  width: 414px;
+  height: 416px;
+}
+.containerTwo h2 {
+  display: flex;
+  color: #6b3cc9;
+}
+.containerTwo p {
+  display: flex;
+  color: #000000;
+}
+.containerTwo button {
+  display: flex;
+  background-color: #f28d35;
+  border: #f28d35;
+  width: Hug 129px;
+  height: Hug 38px;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-right: 20px;
+  padding-bottom: 12px;
+  padding-left: 8px;
+  color: #ffffff;
+}
+.containerFAQs{
+    display: inline;
+    width: 389px;
+    height: 33px;
+}
+
+.containerFAQs h3 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 33px;
+    letter-spacing: 0.4px;
+    color: #6b3cc9;
+}
+.containerFAQs-p1 {
+    width: Fixed 846px;
+    height: Hug 149px;
+    border-radius: 7px;
+    pad: 24px;
+    gap: 13px;
+    background: #FAF8FF;
+
+    
+}
+.containerFAQs-p1 .faq1{
+    width: Fill 798px;
+    height: Hug 28px;
+    gap: 40px;
+    
+}
+.faq1 h4 {
+    font-family: 'Inter'; 
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    color:#6b3cc9
+}
+.faq1-p p{
+    
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    color:#6F6C90;
+    line-height: 30px;
+    
+    
+}

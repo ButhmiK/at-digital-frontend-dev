@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    width: fixed;
+    left: 77px;
+    padding: 26px 80px 26px 80px;
+    justify-content: space-between;
+    background-color: #6B3CC9;
+}
+.headerlogo{
+    width : 238.89px;
+    height: 36.11px;
+    top: -11.11px;
+}
+.body1{
+    display: flex;
+    width: 381px;
+    height: 17px;
+    gap: 28px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: capitalize;
+    line-height: 16.94px;
+    color: white;
+    list-style: none;
+    cursor: pointer;   
+}
